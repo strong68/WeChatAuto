@@ -2,3 +2,9 @@ __pycache__/
 *.py[cod]
 .vscode/
 .skill-build/
+.pytest_cache/
+.ruff_cache/
+.coverage
+build/
+dist/
+*.egg-info/
